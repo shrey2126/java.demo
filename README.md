@@ -1,3 +1,4 @@
 # java.demo
-This is my first Git Repository
-By Shrey Rakholiya
+This is my first Git Repository.
+<br>
+By: Shrey Rakholiya
